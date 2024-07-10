@@ -5,8 +5,8 @@ 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
 git init
 git status
 git add .
-git config --global user.email "olaseindeaduraleke001@gmail.com"
-git config --global user.name "lhekzdev"
+git config --global user.email "amadichile007@gmail.com"
+git config --global user.name "chilemati"
 git config --global user.password "past pat here" // git respects your pat more than your password
 git commit -m 'first commit'
 git remote add origin repo.git
